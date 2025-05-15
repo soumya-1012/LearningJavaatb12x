@@ -21,7 +21,7 @@ public class Lab002_Java {
         a%=2;
         System.out.println("a value is "+a);
         System.out.println("1st value is" +a+b);
-       System.out.println("1st value is" +a-b);
+      // System.out.println("1st value is" +a-b);
         System.out.println("1st value is" +a*b);
         System.out.println("1st value is" +a/b);
         System.out.println("1st value is" +a%b);
